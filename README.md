@@ -14,3 +14,10 @@
 5. Install heroicons
    1. npm install @heroicons/react
    2. implement the heroicons into the header part
+6. Create Navbar
+   1. create the Nav.js inside the components folder
+   2. create the requests.js files inside utils folder created at the root level of project
+   3. import the request and loop through and display the title of each request as the navbar links
+   4. create .env.local file inside the root level of project
+7. Add tailwind-scrollbar-hide
+   1. require this plugin into the tailwind.config.js file into the plugin array
